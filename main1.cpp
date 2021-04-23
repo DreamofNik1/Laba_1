@@ -1,4 +1,4 @@
-#include "modAlphaCipher.h"
+#include "modAlphaCipher1.h"
 bool isValid(const string& s)
 {
  std::locale loc("ru_RU.UTF-8");
