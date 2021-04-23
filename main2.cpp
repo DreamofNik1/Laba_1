@@ -1,4 +1,4 @@
-#include "modAlphaCipher.h"
+#include "modAlphaCipher2.h"
 
 
 bool isValid(const string& s)
