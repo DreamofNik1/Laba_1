@@ -1,4 +1,4 @@
-#include "modAlphaCipher.h"
+#include "modAlphaCipher2.h"
 
 string modAlphaCipher::decoder(const std::string& cipher_st) // РАСШИФРОВАНИЕ
 {
