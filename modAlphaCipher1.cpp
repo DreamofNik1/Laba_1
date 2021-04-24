@@ -1,4 +1,4 @@
-#include "modAlphaCipher1.h"
+#include "modAlphaCipher.h"
 modAlphaCipher::modAlphaCipher(const string& skey)
 {
     locale loc("ru_RU.UTF-8"); // русская локаль для корректной смены регистра
